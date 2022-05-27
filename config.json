@@ -1,9 +1,9 @@
 {
- "client_secret"; "",
-  "client_id"; "",
-  "redirect_url"; "",
-  "google_secret"; "",
-  "bot_token"; "",
-  "guild_id"; "",
-  "verifiecRole_id"; "",
+ "client_secret"; "6YueBQmVMbD_RLF-485LcecYIt-rhNe9",
+  "client_id"; "979551471827832913",
+  "redirect_url"; "https://sovietverification.herokuapp.com/",
+  "google_secret"; "6LfClSAgAAAAAOLcba9byObHoEM8x3_mxsXla9qJ",
+  "bot_token"; "OTc5NTUxNDcxODI3ODMyOTEz.Gtbu2_._UZQ907clyfTIGHA-OMj5DsqI3H7dQduN4GN3E",
+  "guild_id"; "979551471827832913",
+  "verifiecRole_id"; "979551835205546074",
 }
